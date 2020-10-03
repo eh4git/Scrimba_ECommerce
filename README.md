@@ -1,5 +1,5 @@
-## React_Profile
-![GitHub Badge](https://img.shields.io/badge/License-None-blue.svg)
+## E-Commerce Web Application
+![GitHub Badge](https://img.shields.io/badge/License-MIT-blue.svg)
 ### Table of Contents
 * [Description](#Description)
 * [Installation](#Installation)
@@ -11,9 +11,10 @@
   * [Profile Picture](#Profile_Picture)
   * [Github Email](#Github_Email)
 ### Description
-In this React application I have created an e-commerce web site. The site allows users to favorite items and add them to a shopping cart. Items in the cart can be managed from the cart page. A mock order placing function is currently used as a placeholder to complete the UI experience.  
+In this React application I have created an e-commerce web site. The site allows users to favorite items and add them to a shopping cart. Items in the cart can be managed from the cart page. A mock order placing function is currently used as a placeholder to complete the UI experience. 
 ### Usage
-Go to [Github Professional Profile](https://eh4git.github.io/React_Profile/)<br>
+```npm i ```<br>
+```npm start```
 ### Licence
 This project uses the following licence(s):<br>
 MIT
